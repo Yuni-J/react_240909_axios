@@ -37,7 +37,7 @@ const User = () => {
 
     return (
         <div className='user'>
-            <div>User.jsx 영역</div>
+            <h3>User.jsx 영역</h3>
             <ul>
                 {
                     users.map(user => (
